@@ -1,4 +1,4 @@
-# wpsync-webspark
+# wpsync plugin
 Для запуска плагина необходим сайт на основании WordPress c подключенным WooCommerce
 
 Для проверки плагина нужно: 
